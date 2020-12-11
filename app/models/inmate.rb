@@ -1,0 +1,2 @@
+class Inmate < ApplicationRecord
+end
